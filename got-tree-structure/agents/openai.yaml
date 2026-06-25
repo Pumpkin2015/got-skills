@@ -1,0 +1,3 @@
+interface:
+  display_name: "GOT Tree Structure"
+  short_description: "Create tree navigator (Plugin Tree) forms in GOT ERP — self-referencing tables, classification trees, custom TreeSetDataArg trees (Year/Week grouping), and PluginTree callbacks."

@@ -1,0 +1,9 @@
+﻿# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Codex
+.codex/
