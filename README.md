@@ -1,4 +1,4 @@
-﻿# GOT Skills for Codex
+# GOT Skills for Codex
 
 工企 GOT ERP 开发辅助技能集，用于 Codex CLI / Codex Desktop 环境。
 
